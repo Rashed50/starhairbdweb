@@ -8,7 +8,10 @@
                           <div class="sel-box">
                               <a href="tel:{{$comProfile->comp_mobile1}}">Contact: {{ $comProfile->comp_mobile1}}</a>||
                                 <a href="tel:{{$comProfile->comp_mobile1}}">Whatsapp: {{ $comProfile->comp_whatsapp}}</a>
-                          </div>
+                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+                               <a href="https://www.messenger.com/t/100080326003770/"> 
+                               <span id="StarChat" style="color:white;background:red; padding:7px; font-weight:bold;border-radius:3px;">Stat Chat</span> </a>  ,
+                        </div>
                       </div>
                   </div>
                   <!-- <div class="col-md-4 col-md-offset-4">
